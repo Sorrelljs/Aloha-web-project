@@ -1,0 +1,436 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-LightItalic.woff2') format('woff2'),
+        url('Raleway-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Light.woff2') format('woff2'),
+        url('Raleway-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Medium.woff2') format('woff2'),
+        url('Raleway-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-MediumItalic.woff2') format('woff2'),
+        url('Raleway-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('PlayfairDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-Italic.woff2') format('woff2'),
+        url('PlayfairDisplay-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-Bold.woff2') format('woff2'),
+        url('PlayfairDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('PlayfairDisplay-BoldItalic.woff2') format('woff2'),
+        url('PlayfairDisplay-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+li {
+    display: inline;
+
+}
+
+
+
+
+
+
+nav {
+
+    display: flex;
+    height: 20px;
+    justify-content: space-between;
+    flex-direction: row;
+    max-width: 1400px;
+   align-items: center;
+
+
+}
+
+.logo { 
+
+
+    padding: 20px;
+    width: 145px;
+    height: 140px;
+    padding-bottom: 35px;
+    padding-right: 
+
+   
+
+}
+
+.cart {
+    padding-bottom: 10px;
+    width: 65px;
+    height:60px;
+    padding-right: 45px;
+    
+
+}
+
+
+.menu{
+
+    padding-right: 21px;
+}
+
+
+.menu {
+    padding-bottom: 25px;
+   
+    
+
+  
+}
+
+
+li {
+    color: orangered;
+}
+
+
+.banner-text-big {
+    text-align: center;
+    font-size: 42px;
+    margin-top: 35px;
+    margin-right: 80px;
+
+}
+
+
+.banner-text-small {
+    text-align: center;
+    font-size: 20px;  
+    margin-top: 185px;
+    margin-right: 60px;
+  
+}
+
+
+.container {
+    width: 1240px;
+    padding: 2rem;
+    margin: 0% auto;
+    font-family: 'Raleway', sans-serif;
+  
+  }
+
+
+
+.hero {
+    height: 680px;
+    background: url("../IMG/banner-girl.png") center no-repeat, url(../IMG/flower-bkgd.jpg) left top repeat;
+    background-image: url("../IMG/banner-girl.png") , url(../IMG/flower-bkgd.jpg);
+    background-size: 20% , cover; 
+    background-position: center 50px, center center; 
+    color: white;
+    position: relative;
+    
+}
+
+
+
+
+.overlay {
+    background-color: rgba(0,0,0,0.20);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.dot {  height: 25px;
+    width: 25px;
+    background-color: rgb(223, 23, 23);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+
+
+  }
+
+    
+header{
+    padding: 15%:
+}
+
+.header {
+    background-color: black;
+}
+
+.text-box {
+    display: flex;
+    height: 210px;
+    font-family: 'Raleway', sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.handcrafted-title {
+   
+    text-align: center;
+    align-content: center;
+    width: 100%;
+    font-family: 'playfair display';
+    font-size: 40px;
+    
+    
+
+}
+
+
+
+.handcrafted-text {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'playfair display';
+    line-height: 30px;
+
+
+}
+
+
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    height: 280px;
+    width:100%;
+    
+    justify-content: space-between;
+    background-color: black;
+    
+    
+    
+    
+}
+
+.fas.hello{
+    font-size: 14px;
+    text-decoration: none;
+    
+
+}
+
+.fab.p1 {
+    font-size: 25px;
+    text-decoration: none;
+    
+
+}
+
+.fab.g1{
+    font-size: 25px;
+    text-decoration: none;
+
+}
+
+.fab.ig1{
+    font-size: 25px;
+    text-decoration: none;
+
+}
+
+.fab.twit1{
+    font-size:25px;
+    text-decoration: none;
+    
+}
+
+.fab.fb1{
+    font-size:25px;
+    text-decoration: none;
+
+}
+
+
+.social-links {
+    color: white;
+    font-size: 10px;
+    padding-right: 90px;
+    text-align: end;
+    
+}
+
+
+
+.copyright {
+
+    color:white;
+    align-items: flex-end;
+    justify-content: flex-start;
+    text-align: start;
+}
+/**
+
+.copyright {
+    padding-right: 930px;
+    padding-top: 100px;
+    color: white;
+    
+}
+
+*/
+
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: orange;    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item {
+    background-color:turquoise;   
+    background-size: cover;
+    height: 100px;
+    flex: 1 0 25%;
+    height: 300px;
+    max-width: 25%;
+    border-bottom: 5px solid white;
+    box-sizing: border-box;
+    color: white;
+    font-size: 34px;
+   /* font-style: ; */
+   
+   
+}
+
+.item-wide {
+    flex: 2 0 50%;
+    max-width: 50%;
+    background-color: green;
+}
+
+.item-mens {
+    background-image: url("../IMG/mens-category.jpg");
+    border-right: 5px solid white;
+    /* margin-right: -5px;
+    position: relative; */
+}
+
+.item-trends {
+    background-image: url("../IMG/trends-category.jpg");
+    border-right: 5px solid white;
+    
+}
+
+.item-glasses {
+    background-image: url("../IMG/glasses-category.jpg");
+    /* margin-right: -5px;
+    position: relative; */
+}
+
+.item-sale {
+    background-image: url("../IMG/sale-category.jpg");
+    border-right: 5px solid white;
+}
+
+.item-bag {
+    background-image:url("../IMG/bags-category.jpg");
+    border-right: 5px solid white;
+    /* margin-right: -5px;
+    position: relative; */
+}
+
+.item-womens {
+    background-image: url("../IMG/womens-category.jpg");
+    /* margin-right: -5px;
+    position: relative; */
+}
+
+
+
+.subscribe {
+    color: white;
+    height: 400px;
+    direction: flex;
+    flex-direction: column;
+    background-image: url(../IMG/wave-bkgd.jpg);
+    position: relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+    
+
+}
+
+.updates {
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    font-family: 'playfair display';
+    font-size: 30px;
+    line-height: 100px;
+    
+}
+
+.text-box-update {
+    justify-content: center;
+    text-align: center;
+    font-family: 'playfair display';
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+.footer {
+    display: flex;
+}
+
