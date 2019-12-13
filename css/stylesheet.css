@@ -136,7 +136,7 @@ main {
 .container {
     display: flex;
     height: 95%;
-    background-image: url("../IMG/banner-girl.png");
+    background-image: url("../img/banner-girl.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -155,7 +155,7 @@ main {
     
     background: palegreen;
     height: 300px;
-    background: url(../IMG/flower-bkgd.jpg);
+    background: url(../img/flower-bkgd.jpg);
     background-size: cover;
     color: white;
     position: relative;
@@ -198,7 +198,7 @@ strong {
 .banner-text-small {
     text-align: center;
     font-size: 18px;
-    font-family: ;
+    font-family:'Playfair Display';
     text-shadow: grey 0 2px;
 
     
@@ -291,7 +291,7 @@ strong {
 }
 
 .item-mens {
-    background-image: url("../IMG/mens-category.jpg");
+    background-image: url("../img/mens-category.jpg");
     border-right: 5px solid white;
 
     
@@ -299,31 +299,31 @@ strong {
 }
 
 .item-trends {
-    background-image: url("../IMG/trends-category.jpg");
+    background-image: url("../img/trends-category.jpg");
     border-right: 5px solid white;
     
 }
 
 .item-glasses {
-    background-image: url("../IMG/glasses-category.jpg");
+    background-image: url("../img/glasses-category.jpg");
   
     position: relative; 
 }
 
 .item-sale {
-    background-image: url("../IMG/sale-category.jpg");
+    background-image: url("../img/sale-category.jpg");
     border-right: 5px solid white;
 }
 
 .item-bag {
-    background-image:url("../IMG/bags-category.jpg");
+    background-image:url("../img/bags-category.jpg");
     border-right: 5px solid white;
    
     position: relative; 
 }
 
 .item-womens {
-    background-image: url("../IMG/womens-category.jpg");
+    background-image: url("../img/womens-category.jpg");
     
     position: relative; 
 }
@@ -397,7 +397,7 @@ html {
     height: 167px;
     direction: flex;
     flex-direction: column;
-    background-image: url(../IMG/wave-bkgd.jpg);
+    background-image: url(../img/wave-bkgd.jpg);
     position: relative;
     background-size: cover;
     background-repeat: no-repeat;
