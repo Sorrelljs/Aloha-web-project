@@ -16,5 +16,5 @@ Here I made a single apparel page which is tablet, desktop and mobile friendly.
 
 ### Learning
 
-This was a fantastic learning opportunity for me. I was able to practise my decision making on the overall layout and what order to approach things first in. I used flexbox and plenty of CSS on this static site. I was given all the materials (Fonts, IMG, assets) and shown pictures on how the website should look.
+This was a fantastic learning opportunity for me. I was able to practice my decision making on the overall layout and what order to approach things first in. I used flexbox and plenty of CSS on this static site. I was given all the materials (Fonts, IMG, assets) and shown pictures on how the website should look.
 
