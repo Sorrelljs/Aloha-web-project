@@ -1,7 +1,7 @@
 # Aloha-web-project
 Website Aloha Apparel 
 
-![](aloha project.gif)
+![](Aloha-project.gif)
 
 
 
