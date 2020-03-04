@@ -383,6 +383,12 @@ html {
   font-style: lighter;
 }
 
+@media (min-width: 480px) {
+  .cart {
+    order: 2;
+  }
+}
+
 /** footer **/
 h6 {
   color: rgb(95, 93, 93);
@@ -471,6 +477,11 @@ footer {
   .item {
     flex: 1 0 25%;
     height: 144px;
+  }
+
+  .item:hover {
+    cursor: pointer;
+    opacity: 0.8;
   }
 
   .item-wide {
