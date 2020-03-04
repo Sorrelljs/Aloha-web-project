@@ -2,7 +2,10 @@
 Website Aloha Apparel 
 
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:49.44%;position:relative;"><iframe width="360" height="178" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3reoli"></iframe></div><p><a href="https://imgflip.com/gif/3reoli">via Imgflip</a></p></div>
+<div style="width:360px;max-width:100%;">
+    <iframe width="360" height="178" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/3reoli">
+    </iframe>
+  </div>
 
 
 ## Description
