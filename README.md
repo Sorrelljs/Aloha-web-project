@@ -1,6 +1,9 @@
 # Aloha-web-project
 Website Aloha Apparel 
 
+![](aloha project.gif)
+
+
 
 ## Description
 Here I made a single apparel page which is tablet, desktop and mobile friendly.
